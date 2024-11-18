@@ -1,3 +1,10 @@
+/*
+README
+Накидывается на canvas, в него загружается ассет DocumentPanel.
+В скрипт передаются элементы DocumentPanel.
+В cameraControlScript передается скрипт контроллера игрока (можно перетянуть весь контроллерб скрипт подтянется сам)
+*/
+
 using UnityEngine;
 using UnityEngine.UI; // Для работы с UI
 
