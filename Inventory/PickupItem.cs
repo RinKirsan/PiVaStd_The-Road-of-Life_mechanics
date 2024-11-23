@@ -12,6 +12,6 @@ public class PickupItem : MonoBehaviour
         Debug.Log($"Предмет {itemData.itemName} поднят!");
 
         // Уничтожаем объект из мира после поднятия
-        //Destroy(gameObject);
+        Destroy(gameObject);
     }
 }
